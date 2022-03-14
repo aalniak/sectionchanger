@@ -15,7 +15,7 @@ pip install selenium
 ---------------------------------
 
 CHROMEDRIVER
-About chromedriver, https://chromedriver.chromium.org/ is the link to go. Most of the time stable release corresponds your needs.
+About chromedriver, https://chromedriver.chromium.org/ is the link to go. Most of the time, stable release corresponds your needs.
 
 --------------------------------
 
