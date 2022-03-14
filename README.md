@@ -33,6 +33,6 @@ The first row corresponds to '1', second row does to '2' and so on.
 
 >course_category: The items in Course Category dropdown menu. As mentioned in .py script, Following are valid: 'MUST', 'RESTRICTED ELECTIVE', 'FREE ELECTIVE', 'TECHNICAL ELECTIVE', 'NONTECHNICAL ELECTIVE', 'NOT INCLUDED'.
 
->driver: This one is crucially important. You need to locate the chromedriver item you downloaded. For the sake of simplicity, you can put it right under the C:\ directory, which yields the following: driver = webdriver.Chrome('C:/chromedriver') and you're done. Otherwise you got to locate it manually.
+>driver: This one is crucially important. You need to locate the chromedriver item you downloaded. For the sake of simplicity, you can put it right under the C:\ directory, which yields the following:           _driver = webdriver.Chrome('C:/chromedriver')_             and you're done. Otherwise you got to locate it manually.
 
 >
