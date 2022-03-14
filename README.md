@@ -3,6 +3,7 @@ METU Register Section Changer
 
 IN ORDER TO MAKE USE OF THIS, ONE NEEDS A COURSE SELECTED IN AN UNDESIRED SECTION. THIS IS *JUST* FOR SECTION CHANGES.
 
+Open the file using any Python IDE.
 
 As in described in .py file, one needs Selenium package, chromedriver, and all set values in order for this script to work out.
 
