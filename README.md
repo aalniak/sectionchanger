@@ -1,4 +1,4 @@
-# sectionchanger
+# SectionChanger
 METU Register Section Changer
 
 IN ORDER TO MAKE USE OF THIS, ONE NEEDS A COURSE SELECTED IN AN UNDESIRED SECTION. THIS IS *JUST* FOR SECTION CHANGES.
@@ -7,20 +7,19 @@ Open the file using any Python IDE.
 
 As in described in .py file, one needs Selenium package, chromedriver, and all set values in order for this script to work out.
 
----------------------------------
 
-SELENIUM
+## SELENIUM
 About Selenium, it's easy to install selenium with the help of a python console. Just insert the following code in your console:
 pip install selenium
 
 ---------------------------------
 
-CHROMEDRIVER
+## CHROMEDRIVER
 About chromedriver, https://chromedriver.chromium.org/ is the link to go. Most of the time, stable release corresponds your needs.
 
 --------------------------------
 
-CREDENTIALS AND VARIABLES
+## VARIABLES
 In .py file, I briefly tried to explain the credential and variable stuff. About to check them one by one here:
 
 >course_indice: This one indicates the course indice IN your logged in register.metu.edu.tr interface. Say you have 5 courses, sorted down as 5 rows.
